@@ -1,0 +1,34 @@
+{
+  "navigation":{
+    "2199fb7e-b249-4a22-acab-221a677cee9b":{
+      "children":{
+        "cff20369-bb02-4720-b1e9-8870f54d0073":{
+          "index":0,
+          "parentId":"2199fb7e-b249-4a22-acab-221a677cee9b",
+          "template":"templateString",
+          "type":"typeString"
+        },
+        "c4e14101-9713-463a-b028-deb23c9f38bf":{
+          "index":1,
+          "parentId":"2199fb7e-b249-4a22-acab-221a677cee9b",
+          "template":"templateString",
+          "type":"typeString"
+        }
+      },
+      "index":0,
+      "type":"string"
+    },
+    "6c673c1f-8345-4d5c-9652-cca03d56a3ac":{
+      "children":{
+        "85c703dd-4887-4e9d-a1b7-14022958860b":{
+          "index": 0,
+          "parentId":"6c673c1f-8345-4d5c-9652-cca03d56a3ac",
+          "template":"templateString",
+          "type":"typeString"
+        }
+      },
+      "index":1,
+      "type":"string"
+    }
+  }
+}

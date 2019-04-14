@@ -1,0 +1,62 @@
+{
+  "2199fb7e-b249-4a22-acab-221a677cee9b":{
+    "children":{
+      "cff20369-bb02-4720-b1e9-8870f54d0073":{
+        "index":0,
+        "parentId":"2199fb7e-b249-4a22-acab-221a677cee9b",
+        "template":"templateString",
+        "type":"typeString",
+        "component": {
+          "data": {
+            "0": {
+              "asset": "urlString",
+              "caption": {
+                "language_0": "string",
+                "language_1": "string"
+              }
+            },
+            "1": {
+              "asset": "urlString",
+              "caption": {
+                "language_0": "string",
+                "language_1": "string"
+              }
+            }
+          },
+          "type": "string"
+        }
+      },
+      "c4e14101-9713-463a-b028-deb23c9f38bf":{
+        "index":1,
+        "parentId":"2199fb7e-b249-4a22-acab-221a677cee9b",
+        "template":"templateString",
+        "type":"typeString",
+        "component": {
+          "data": {
+            "0": {
+              "styles": {
+                "0": {
+                  "asset": "urlString",
+                  "name": {
+                    "language_0": "string",
+                    "language_1": "string"
+                  }
+                },
+                "1": {
+                  "asset": "urlString",
+                  "nmae": {
+                    "language_0": "string",
+                    "language_1": "string"
+                  }
+                }
+              },
+              "type": "typeString"
+            }
+          }
+        }
+      }
+    },
+    "index":0,
+    "type":"string"
+  }
+}

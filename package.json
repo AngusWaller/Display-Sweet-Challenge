@@ -1,0 +1,24 @@
+{
+  "name": "display_sweet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.0",
+    "eslint-plugin-jest": "^22.4.1",
+    "jest": "^24.7.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "request-promise": "^4.2.4"
+  },
+  "scripts": {
+    "testCore": "jest ./test/app.test.js",
+    "testREST": "jest ./test/rest.test.js",
+    "runWebserver": "node index.js start"
+  }
+}
