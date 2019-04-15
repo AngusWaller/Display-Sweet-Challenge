@@ -17,3 +17,8 @@ This challenge took about 7 hours to complete
 
 ## Production Environment
 This is quite basically building an Object Relational Modelling (ORM) system for a rest endpoint. If I cheated and used something like mongoose, this would have taken minutes to build.
+
+## REST endpoints
+All API endpoints are detailed at https://app.swaggerhub.com/apis-docs/angus-waller/display-sweet/1.0.0
+
+Originally I was going to add a local build of swagger onto this project however that would just pollute the challenge contents. 
