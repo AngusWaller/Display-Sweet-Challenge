@@ -16,7 +16,7 @@ this was fixed by building the rest testing systems first then building endpoint
 This challenge took about 7 hours to complete
 
 ## Production Environment
-This is quite basically building an Object Relational Modelling (ORM) system for a rest endpoint. If I cheated and used something like mongoose, this would have taken minutes to build.
+This is quite basically building an Object Relational Modelling (ORM) system for a rest endpoint. If I cheated and used databases & something like mongoose, this would have taken minutes to build.
 
 ## REST endpoints
 All API endpoints are detailed at https://app.swaggerhub.com/apis-docs/angus-waller/display-sweet/1.0.0
